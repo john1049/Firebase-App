@@ -1,0 +1,92 @@
+
+
+.completed{
+  display: block;
+  text-decoration: line-through;
+  color: #a8a8a8;
+  padding-top: 10px;
+}
+
+
+p{
+  display: inline-block;
+  padding-right: 20px;
+}
+
+.btn-primary{
+  margin-top: 10px;
+}
+
+.editForm{
+  display: inline;
+}
+
+.deleteBtn{
+  border: none;
+  background: none;
+  float: right;
+}
+
+.glyphicon-remove{
+  color: #c7c5c5;
+}
+
+.glyphicon-remove:hover{
+  color: #414141;
+}
+
+.editBtn{
+  border: none;
+  background: none;
+  float: right;
+  padding-right: 20px;
+}
+
+.glyphicon-edit{
+  color: #c7c5c5;
+}
+
+.glyphicon-edit:hover{
+  color: #414141;
+}
+
+.updateBtn{
+  border: none;
+  background: none;
+}
+
+.glyphicon-saved{
+  color: #c7c5c5;
+}
+
+.glyphicon-saved:hover{
+  color: #414141;
+}
+
+.removeBtn{
+  border: none;
+  background: none;
+  color: #c7c5c5;
+}
+
+.removeBtn:hover{
+  color: #414141;
+}
+
+.datepicker{
+  margin-top: 10px !important;
+}
+
+.addForm{
+  background-color: #d6d6d6;
+  padding: 20px;
+}
+
+.list{
+  margin: 0 !important;
+}
+
+/*
+.panel-group{
+  margin-top: 20px;
+}*/
